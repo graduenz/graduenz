@@ -5,10 +5,6 @@ This page is under construction; thanks for patience.
 | ![GitHub Stats](https://github-readme-stats-weld-iota-99.vercel.app/api?username=graduenz&show_icons=true&theme=dark&include_all_commits=true) | ![Top Languages](https://github-readme-stats-weld-iota-99.vercel.app/api/top-langs/?username=graduenz&theme=dark&layout=compact) |
 |------|------|
 
-
-
-
-
 <!--
 **graduenz/graduenz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

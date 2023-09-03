@@ -1,21 +1,28 @@
+# 👋 Hey!
+
+- My name is **Guilherme Raduenz**.
+- I like to solve real-world problems using technology.
+- You will find everything about me at https://rdnz.dev.
+
+### 🔧 Setup
+
 ```
-This page is under construction; thanks for patience.
+Coming soon
 ```
 
-| ![GitHub Stats](https://github-readme-stats-weld-iota-99.vercel.app/api?username=graduenz&show_icons=true&theme=dark&include_all_commits=true) | ![Top Languages](https://github-readme-stats-weld-iota-99.vercel.app/api/top-langs/?username=graduenz&theme=dark&layout=compact) |
-|------|------|
+### 💻  Skills
 
-<!--
-**graduenz/graduenz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+```
+Coming soon
+```
 
-Here are some ideas to get you started:
+### 🔗 Links
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- [ASP.NET Core Integration Tests](https://gui.rdnz.dev/_/.net-engineering/asp.net-core-integration-tests)
+- More coming soon :)
+
+### 📈 GitHub Stats
+
+
+![GitHub Stats](https://github-readme-stats-weld-iota-99.vercel.app/api?username=graduenz&show_icons=true&line_height=27&count_private=true&theme=dark&include_all_commits=true)
+![Top Languages](https://github-readme-stats-weld-iota-99.vercel.app/api/top-langs/?username=graduenz&theme=dark&langs_count=3)

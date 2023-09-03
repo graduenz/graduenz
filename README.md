@@ -2,7 +2,7 @@
 This page is under construction; thanks for patience.
 ```
 
-| ![Top Languages](https://github-readme-stats-weld-iota-99.vercel.app/api/top-langs/?username=graduenz&theme=dark&layout=compact) | ![GitHub Stats]([https://github-readme-stats.vercel.app](https://github-readme-stats-weld-iota-99.vercel.app)/api?username=graduenz&show_icons=true&theme=dark&include_all_commits=true) |
+| ![GitHub Stats]([https://github-readme-stats.vercel.app](https://github-readme-stats-weld-iota-99.vercel.app/api?username=graduenz&show_icons=true&theme=dark&include_all_commits=true) | ![Top Languages](https://github-readme-stats-weld-iota-99.vercel.app/api/top-langs/?username=graduenz&theme=dark&layout=compact) |
 |------|------|
 
 

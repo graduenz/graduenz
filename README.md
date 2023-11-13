@@ -13,7 +13,7 @@ I am **Guilherme Raduenz**. In a very short sentence, I am a back end software e
 
 ### 🧠 Skills
 
-#### Coding
+**Coding**
 
 ![.NET](https://img.shields.io/badge/-.NET-512bd4?logo=.net&style=flat)
 ![C#](https://img.shields.io/badge/-C%23-grey?logo=csharp&style=flat)
@@ -21,14 +21,14 @@ I am **Guilherme Raduenz**. In a very short sentence, I am a back end software e
 ![TypeScript](https://img.shields.io/badge/-TypeScript-grey?logo=typescript&style=flat)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-grey?logo=javascript&style=flat)
 
-#### Databases
+**Databases**
 
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-grey?logo=postgresql&style=flat)
 ![SQL Server](https://img.shields.io/badge/-SQL_Server-grey?logo=microsoftsqlserver&style=flat)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-grey?logo=mongodb&style=flat)
 ![Redis](https://img.shields.io/badge/-Redis-grey?logo=redis&style=flat)
 
-#### Tools
+**Tools**
 
 ![AWS](https://img.shields.io/badge/-AWS-grey?logo=amazonaws&style=flat&logoColor=ff9900)
 ![Docker](https://img.shields.io/badge/-Docker-grey?logo=docker&style=flat)
@@ -36,7 +36,7 @@ I am **Guilherme Raduenz**. In a very short sentence, I am a back end software e
 ![GitHub Actions](https://img.shields.io/badge/-GitHub_Actions-grey?logo=githubactions&style=flat)
 ![Auth0](https://img.shields.io/badge/-Auth0-grey?logo=auth0&style=flat)
 
-#### 📖 Learning now
+#### 🔥 Learning now
 
 ![Kubernetes](https://img.shields.io/badge/-Kubernetes-grey?logo=kubernetes&style=flat)
 ![Go](https://img.shields.io/badge/-Go-grey?logo=go&style=flat)
@@ -46,12 +46,12 @@ I am **Guilherme Raduenz**. In a very short sentence, I am a back end software e
 
 ### 🔧 Setup
 
-#### Operational systems
+**Operational systems**
 
 ![Windows](https://img.shields.io/badge/Windows-installed-blue?logo=windows&style=flat&logoColor=00BCF2)
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-on_WSL2_&_EC2-blue?logo=ubuntu&style=flat)
 
-#### Tools
+**Tools**
 
 ![JetBrains Rider](https://img.shields.io/badge/-JetBrains_Rider-grey?logo=rider&style=flat)
 ![VS Code](https://img.shields.io/badge/-Visual_Studio_Code-grey?logo=visualstudiocode&style=flat)
@@ -59,7 +59,7 @@ I am **Guilherme Raduenz**. In a very short sentence, I am a back end software e
 ![Sublime Merge](https://img.shields.io/badge/-Sublime_Merge-grey?logo=&style=flat)
 ![DBeaver](https://img.shields.io/badge/-DBeaver-grey?logo=&style=flat)
 
-#### Note taking
+**Note taking**
 
 ![GitBook](https://img.shields.io/badge/-GitBook-grey?logo=gitbook&style=flat)
 ![Obsidian](https://img.shields.io/badge/-Obsidian-grey?logo=obsidian&logoColor=8060d3&style=flat)

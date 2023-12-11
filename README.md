@@ -3,8 +3,8 @@
 I am **Guilherme Raduenz**. In a very short sentence, I am a back end software engineer working with the .NET stack.
 
 - I have been coding for 10+ years - since 2011.
-- I really enjoy how people's lives can be improved by technology.
-- I also like coding outside of work to try different tech, programming languages, etc.
+- I'm driven by how people's lives can be improved by technology.
+- Besides work, I also like coding some stuff to try different tech, programming languages, etc.
 - Most of the people call me Gui - pronounced as "give" without the "ve".
 - Born and living in Brazil ![Brazil](br.png).
 - You will find more about me at https://rdnz.dev.

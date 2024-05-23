@@ -31,12 +31,6 @@ My name is **Guilherme Raduenz**, and I am a back end software engineer working 
 ![GitHub Actions](https://img.shields.io/badge/-GitHub_Actions-grey?logo=githubactions&style=flat)
 ![Auth0](https://img.shields.io/badge/-Auth0-grey?logo=auth0&style=flat)
 
-**Learning more 🔥**
-
-![Kubernetes](https://img.shields.io/badge/-Kubernetes-grey?logo=kubernetes&style=flat)
-![Go](https://img.shields.io/badge/-Go-grey?logo=go&style=flat)
-![AWS (more)](https://img.shields.io/badge/-AWS_(more)-grey?logo=amazonaws&style=flat&logoColor=ff9900)
-
 ---
 
 ### Setup
@@ -57,18 +51,11 @@ My name is **Guilherme Raduenz**, and I am a back end software engineer working 
 ![Notion](https://img.shields.io/badge/-Notion-grey?logo=notion&style=flat)
 ![Miro](https://img.shields.io/badge/-Miro-grey?logo=miro&style=flat)
 ![Excalidraw](https://img.shields.io/badge/-Excalidraw-grey?logo=&style=flat)
-![GitBook](https://img.shields.io/badge/-GitBook-grey?logo=gitbook&style=flat)
 
 ---
 
 ### Contributions
 
-- [ASP.NET Core Integration Tests](https://gui.rdnz.dev/.net-engineering/asp.net-core-integration-tests)
-- [Code analysis with SonarCloud and GitHub Actions](https://gui.rdnz.dev/.net-engineering/code-analysis-with-sonarcloud-and-github-actions)
+- [ASP.NET Core Integration Tests](https://rdnz.dev/blog/asp-net-core-integration-tests/)
+- [Code analysis with SonarCloud and GitHub Actions](https://rdnz.dev/blog/code-analysis-sonarcloud-github-actions/)
 
----
-
-### 📈 GitHub stats
-
-![GitHub Stats](https://github-readme-stats-weld-iota-99.vercel.app/api?username=graduenz&show_icons=true&line_height=27&count_private=true&theme=dark&include_all_commits=true)
-![Top Languages](https://github-readme-stats-weld-iota-99.vercel.app/api/top-langs/?username=graduenz&theme=dark&langs_count=3)

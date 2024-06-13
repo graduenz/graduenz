@@ -1,10 +1,10 @@
 ## Gui 👍
 
-My name is **Guilherme Raduenz**, and I am a back end software engineer working for years with the .NET stack.
+My name is **Guilherme Raduenz**; I'm a back end software engineer working for many years with the .NET stack and other stuff.
 
 - I have been coding for 10+ years - since 2011.
-- Besides work, I also like coding some stuff to try different tech, programming languages, etc.
-- Most of the people call me Gui - pronounced as "give" without the "ve".
+- Besides work but still related to this GitHub profile, I like working in some small (or pet) projects.
+- Most of the people call me Gui (ɡɪ / gee).
 - Born and living in Brazil ![Brazil](br.png).
 - You will find more about me at https://rdnz.dev.
 
@@ -12,35 +12,33 @@ My name is **Guilherme Raduenz**, and I am a back end software engineer working 
 
 ---
 
-### Tech stack & skills
+This is an overview of my current tech stack / skills.
 
 ![.NET](https://img.shields.io/badge/-.NET-512bd4?logo=.net&style=flat)
 ![C#](https://img.shields.io/badge/-C%23-grey?logo=csharp&style=flat)
-![ASP.NET Core](https://img.shields.io/badge/-ASP.NET_Core-grey?logo=.net&style=flat)
+![ASP.NET](https://img.shields.io/badge/-ASP.NET-grey?logo=.net&style=flat)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-grey?logo=typescript&style=flat)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-grey?logo=javascript&style=flat)
 
-![AWS](https://img.shields.io/badge/-AWS-grey?logo=amazonaws&style=flat&logoColor=ff9900)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-grey?logo=postgresql&style=flat)
 ![SQL Server](https://img.shields.io/badge/-SQL_Server-grey?logo=microsoftsqlserver&style=flat)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-grey?logo=mongodb&style=flat)
+![Elasticsearch](https://img.shields.io/badge/-Elasticsearch-grey?logo=elastic&style=flat)
 ![Redis](https://img.shields.io/badge/-Redis-grey?logo=redis&style=flat)
 
+![AWS](https://img.shields.io/badge/-AWS-grey?logo=amazonwebservices&style=flat&logoColor=ff9900)
 ![Docker](https://img.shields.io/badge/-Docker-grey?logo=docker&style=flat)
-![Elasticsearch](https://img.shields.io/badge/-Elasticsearch-grey?logo=elastic&style=flat)
 ![GitHub Actions](https://img.shields.io/badge/-GitHub_Actions-grey?logo=githubactions&style=flat)
 ![Auth0](https://img.shields.io/badge/-Auth0-grey?logo=auth0&style=flat)
 
----
 
-### Setup
+**Setup &horbar; Operational systems**
 
-**OS**
+![Windows](https://img.shields.io/badge/Windows-everyday-blue?logo=windows&style=flat&logoColor=00BCF2)
+![Ubuntu](https://img.shields.io/badge/Ubuntu-on_WSL2-blue?logo=ubuntu&style=flat)
+![Kubuntu](https://img.shields.io/badge/Kubuntu-on_home_server-blue?logo=kubuntu&style=flat)
 
-![Windows](https://img.shields.io/badge/Windows-installed-blue?logo=windows&style=flat&logoColor=00BCF2)
-![Ubuntu](https://img.shields.io/badge/Ubuntu-on_WSL2_&_EC2-blue?logo=ubuntu&style=flat)
-
-**Tools**
+**Setup &horbar; Tools**
 
 ![JetBrains Rider](https://img.shields.io/badge/-JetBrains_Rider-grey?logo=rider&style=flat)
 ![VS Code](https://img.shields.io/badge/-Visual_Studio_Code-grey?logo=visualstudiocode&style=flat)
@@ -48,14 +46,14 @@ My name is **Guilherme Raduenz**, and I am a back end software engineer working 
 ![DBeaver](https://img.shields.io/badge/-DBeaver-grey?logo=&style=flat)
 
 ![Obsidian](https://img.shields.io/badge/-Obsidian-grey?logo=obsidian&logoColor=8060d3&style=flat)
-![Notion](https://img.shields.io/badge/-Notion-grey?logo=notion&style=flat)
-![Miro](https://img.shields.io/badge/-Miro-grey?logo=miro&style=flat)
-![Excalidraw](https://img.shields.io/badge/-Excalidraw-grey?logo=&style=flat)
+![draw.io](https://img.shields.io/badge/-draw.io-grey?logo=diagrams.net&logoColor=F08705&style=flat)
+![Excalidraw](https://img.shields.io/badge/-Excalidraw-grey?logo=excalidraw&logoColor=6965DB&style=flat)
 
 ---
 
-### Contributions
+### My writings
 
+- [Moving away from GitBook to Hugo](https://rdnz.dev/blog/moving-away-from-gitbook-to-hugo/)
 - [ASP.NET Core Integration Tests](https://rdnz.dev/blog/asp-net-core-integration-tests/)
 - [Code analysis with SonarCloud and GitHub Actions](https://rdnz.dev/blog/code-analysis-sonarcloud-github-actions/)
 

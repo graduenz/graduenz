@@ -6,10 +6,10 @@
 
 ### 🌀 Recent activity
 
-- 💾 [ormshift](https://github.com/ordershift/ormshift) ― an ORM written in Go focused on migrations (similar to Entity Framework) and database agnosticism, it's part of another production-level project.
-- 💵 [NOrganizze](https://github.com/graduenz/norganizze) ― a .NET client to communicate with the APIs of a third-party app, I'm building automations/reports for my personal finances.
+- 💾 [ormshift](https://github.com/ordershift/ormshift) ― an ORM written in Go focused on migrations (similar to Entity Framework) and database agnosticism (part of another private project I'm working on).
+- 💵 [NOrganizze](https://github.com/graduenz/norganizze) ― a .NET client library to communicate with Organizze APIs (backbone for some automations on my personal finances).
 
 ### 💡 Next ideas
 
-- 🔴 redbarchetta.com ― I like Rush and coding, bought this domain, want to build something fun there.
-- 📝 rdnz.dev ― I'd like to write more again.
+- 🔴 redbarchetta.com ― I like Rush and coding, bought this domain, want to build something there (**fun**, not serious).
+- 📝 rdnz.dev ― I'd like to write more again, it's already been years.

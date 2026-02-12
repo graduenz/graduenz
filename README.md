@@ -6,7 +6,7 @@
 
 ### 🌀 Recent activity
 
-- 💾 [ormshift](https://github.com/ordershift/ormshift) ― an ORM written in Go focused on migrations (similar to Entity Framework) and database agnosticism (part of another private project I'm working on).
+- 💾 [ormshift](https://github.com/ordershift/ormshift) ― an ORM written in Go focused on migrations and database agnosticism (part of another private project I'm working on).
 - 💵 [NOrganizze](https://github.com/graduenz/norganizze) ― a .NET client library to communicate with Organizze APIs (backbone for some automations on my personal finances).
 
 ### 💡 Next ideas
